@@ -1,0 +1,9 @@
+
+		{
+			"name": "Cao Van Chuong",
+			"age": 22,
+			"male": true,
+			"family_member": [
+				"Ngoc", "Lam", "Thang"
+			]
+		}

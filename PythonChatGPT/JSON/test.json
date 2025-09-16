@@ -1,0 +1,8 @@
+{
+    "name": "Chuong",
+    "age": 22,
+    "male": true,
+    "family_member": [
+        "Lam, Mom, Dad"
+    ]
+}
